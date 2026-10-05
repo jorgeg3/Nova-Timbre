@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TemaNova" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#4C1D95</item>
+        <item name="android:colorPrimaryDark">#000000</item>
+        <item name="android:colorAccent">#A78BFA</item>
+        <item name="android:colorControlNormal">#8B7FB0</item>
+        <item name="android:windowBackground">#FF000000</item>
+        <item name="android:statusBarColor">#FF000000</item>
+        <item name="android:navigationBarColor">#FF000000</item>
+        <item name="android:textColorPrimary">#EDE9FE</item>
+        <item name="android:textColorSecondary">#B9AEDB</item>
+    </style>
+</resources>
